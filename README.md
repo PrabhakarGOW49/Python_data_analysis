@@ -18,4 +18,4 @@ This project performs data cleaning, transformation, and exploratory data analys
 - PNG files contain individual charts for easy viewing.  
 
 📌 **Connect with me:**  
-[LinkedIn Profile][(https://www.linkedin.com/in/tera-link-daal-yaha)](https://www.linkedin.com/in/prabhakar-mahapatra49/)
+[LinkedIn Profile](https://www.linkedin.com/in/prabhakar-mahapatra49/)
